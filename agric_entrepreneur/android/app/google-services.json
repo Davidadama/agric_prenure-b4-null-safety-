@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577045483098",
+    "project_id": "capsula-fc8ba",
+    "storage_bucket": "capsula-fc8ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577045483098:android:0e3a669271702b018d5263",
+        "android_client_info": {
+          "package_name": "agricentre.agric_entrepreneur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577045483098-qlg915va19qsnh7mgdh6gkdr1tb28qor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZoFszFogLlJMXam8FDPDgDH77Zva3Z1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577045483098-qlg915va19qsnh7mgdh6gkdr1tb28qor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

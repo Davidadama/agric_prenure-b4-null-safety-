@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+agricentre/agric_entrepreneur2/BuildConfig.java
+ agricentre.agric_entrepreneur2.BuildConfig

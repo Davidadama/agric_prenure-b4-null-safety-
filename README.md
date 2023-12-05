@@ -27,11 +27,20 @@ by either lecturers or student on this platform.
  - This will be diaplayed on playstore and apple store.
 ## Screenshot
     
-A few resources to get you started if this is your first Flutter project:
+<img src= "https://github.com/Davidadama/agric_prenure-b4-null-safety-/assets/49925866/c96824c1-8c17-4227-8545-e5fd1adbff1b"
+height ='500' width='250'
+/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src= "https://github.com/Davidadama/agric_prenure-b4-null-safety-/assets/49925866/42619028-0f7d-4f8c-b7f2-396d0f21c64e"
+height ='500' width='250'
+/>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<img src= "https://github.com/Davidadama/agric_prenure-b4-null-safety-/assets/49925866/b22a5ae7-9f23-4905-8e8c-e07f9e3401cb"
+height ='500' width='250'
+/>
+<img src= "https://github.com/Davidadama/agric_prenure-b4-null-safety-/assets/49925866/6251e670-93f7-4066-9056-76d5019fe64d)"
+height ='500' width='250'
+/>
+<img src= "https://github.com/Davidadama/agric_prenure-b4-null-safety-/assets/49925866/e4a977a1-9ab5-43f4-9955-4b60bdb981f9"
+height ='500' width='250'
+/>
